@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.cybrain.co.in/img/why-full-hire.jpg"></p>
+<p align="center"></*img src="https://www.cybrain.co.in/img/why-full-hire.jpg*/"></p>
 
 <h1 align="center">Hi 👋, I'm Santanu Bhattacharya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
